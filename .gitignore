@@ -59,3 +59,6 @@ typings/
 
 # next.js build output
 .next
+
+# doesn't include the build folder
+build
